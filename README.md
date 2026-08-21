@@ -106,7 +106,7 @@ Data Scientist • AI Engineer • Machine Learning Engineer • Content Creator
 # ☁️ Deployment & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,vercel,flask" width="260" />
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,linux,vercel,flask" width="260" />
 </p>
 
 ---
