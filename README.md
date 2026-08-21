@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Babar Ali Mahar</h1>
 
 <p align="center">
-<code>Turning data into decisions, and ideas into intelligent systems.</code>
+<code>Turning data into decisions, and ideas into intelligent systems:)</code>
 </p>
 
 <p align="center">
