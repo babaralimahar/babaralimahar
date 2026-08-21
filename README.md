@@ -5,11 +5,11 @@ Data Scientist • AI Engineer • Machine Learning Engineer • Content Creator
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Data+Scientist;AI+Engineer;Deep+Learning+Developer;Freelance+ML+Developer;BSIT+Student;Building+AI+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Data+Scientist;AI+Engineer;Machine+Learning+Engineer;Content+Creator;Building+AI+Solutions" />
 </p>
 
 <p align="center">
-<img src="assets/terminal-profile.png" width="100%" />
+<img src="terminal-profile.png" width="100%" />
 </p>
 
 ---
