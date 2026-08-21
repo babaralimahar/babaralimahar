@@ -9,7 +9,7 @@ Data Scientist • AI Engineer • Machine Learning Engineer • Content Creator
 </p>
 
 <p align="center">
-<img src="terminal-profile.png" width="100%" />
+<img src="terminal-profile.png" width="102%" />
 </p>
 
 ---
