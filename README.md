@@ -5,11 +5,11 @@ Data Scientist • AI Engineer • Machine Learning Engineer • Content Creator
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Data+Scientist;AI+Engineer;Machine+Learning+Engineer;Content+Creator;Building+AI+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Data+Scientist;AI+Engineer;Machine+Learning+Engineer;Building+AI+Solutions;Content+Creator" />
 </p>
 
 <p align="center">
-<img src="terminal-profile.png" width="125%" />
+<img src="terminal-profile.png" width="100%" />
 </p>
 
 ---
@@ -77,7 +77,8 @@ Data Scientist • AI Engineer • Machine Learning Engineer • Content Creator
 - 📚 Retrieval-Augmented Generation (RAG)
 - ⚡ Agentic AI Systems
 - 🧠 Prompt Engineering
-- 🛠️ AI Automation 
+- 🛠️ AI Automation
+- ☁️ LLMops
 
 ---
 
