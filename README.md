@@ -51,7 +51,7 @@ Data Scientist • AI Engineer • Machine Learning Engineer • Content Creator
 # 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,c,java,r,bash" width="320" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript,postgresql" width="320" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ Data Scientist • AI Engineer • Machine Learning Engineer • Content Creator
 # 🤖 Machine Learning & Deep Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" width="200" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas,matplotlib" width="200" />
 </p>
 
 - 🧠 Machine Learning (Regression, Classification, Clustering)
