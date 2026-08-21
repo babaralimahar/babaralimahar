@@ -113,7 +113,7 @@
 
 # 💬 Quote
 
-> **"Learn with intention. Build with discipline. Share what you know."**
+> **"Discipline is the algorithm; consistency is the model that never stops training."**
 
 ---
 
