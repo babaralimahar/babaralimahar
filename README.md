@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Babar Ali Mahar</h1>
 
 <p align="center">
-Data Scientist • AI Engineer • Machine Learning Engineer • Content Creator
+Turning data into decisions, and ideas into intelligent systems:)
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ Data Scientist • AI Engineer • Machine Learning Engineer • Content Creator
 # ☁️ Deployment & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,git,streamlit,linux,vercel,flask" width="260" />
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,git,linux,vercel,flask" width="260" />
 </p>
 
 ---
