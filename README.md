@@ -51,7 +51,7 @@ Data Scientist • AI Engineer • Machine Learning Engineer • Content Creator
 # 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript,postgresql" width="320" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript" width="320" />
 </p>
 
 ---
@@ -59,14 +59,14 @@ Data Scientist • AI Engineer • Machine Learning Engineer • Content Creator
 # 🤖 Machine Learning & Deep Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas,matplotlib" width="200" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" width="200" />
 </p>
 
 - 🧠 Machine Learning (Regression, Classification, Clustering)
 - 🔬 Deep Learning (CNNs, RNNs, Transfer Learning)
 - 🖼️ Computer Vision
 - 📊 Model Evaluation & Hyperparameter Tuning
-- 🧩 Scikit-learn, Keras & TensorFlow
+- 🧩 Scikit-learn, TensorFlow & PyTorch
 
 ---
 
@@ -75,7 +75,7 @@ Data Scientist • AI Engineer • Machine Learning Engineer • Content Creator
 - 🤖 Large Language Models (LLMs)
 - 🔗 LangChain & LangGraph
 - 📚 Retrieval-Augmented Generation (RAG)
-- ⚡  Agentic AI Systems
+- ⚡ Agentic AI Systems
 - 🧠 Prompt Engineering
 - 🛠️ AI Automation 
 
@@ -84,7 +84,7 @@ Data Scientist • AI Engineer • Machine Learning Engineer • Content Creator
 # 📊 Data Science & Analysis
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,anaconda" width="90" />
+  <img src="https://skillicons.dev/icons?i=py,anaconda,vscode" width="90" />
 </p>
 
 - 🧮 Exploratory Data Analysis (EDA)
@@ -121,7 +121,5 @@ Data Scientist • AI Engineer • Machine Learning Engineer • Content Creator
 If you find my work valuable:
 
 ⭐ Star my repositories
-
-🎥 Subscribe to **Babar Ali Mahar** on YouTube
 
 🤝 Let's connect and build something impactful together!
